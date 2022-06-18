@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NYdHLWOXL6YXxF6CIx8dvUZePc1xueYl6QifG6LChLpEJkBU7hatiYZQcSGkfDO9lS2qBr4SVnpax4Dq1zGHmQ==",
+  "success": true,
+  "projectFilePath": "/Users/valenciomuskiet/Documents/ProjectB-HetDepotConsole/ProjectB-HetDepotConsole/ProjectB-HetDepotConsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/valenciomuskiet/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/valenciomuskiet/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/valenciomuskiet/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
